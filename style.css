@@ -1,4 +1,4 @@
-* { 
+/* * { 
     margin:0;
     padding:0;
 }
@@ -67,7 +67,7 @@ section {
 }
 .portfolio:hover {
     cursor:grab;
-}
+} */
 /*.portfolio-sidebar{ 
     background-color: white;
     padding-top:50px;
@@ -78,7 +78,7 @@ section {
     text-align: left;
 }*/
 
-footer {
+/* footer {
     padding:20px; 
 }
 .contact {
@@ -182,4 +182,4 @@ footer {
       flex-direction: column;
     }
    
-  }
+  } */
